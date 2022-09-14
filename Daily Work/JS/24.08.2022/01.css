@@ -1,0 +1,13 @@
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 3px solid black;
+}
+
+.oneAlter{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(17, 0, 255);
+    border: 3px solid green;
+}

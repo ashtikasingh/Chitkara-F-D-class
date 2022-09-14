@@ -1,0 +1,31 @@
+h3{
+    color:aqua;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+    height: 300px;;
+    width: 300px;
+    padding: 15px;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+.box1{
+    background-color: palevioletred;
+    visibility: hidden;
+}
+
+.box2{
+    background-color: brown;
+    display: none;
+}
+
+.box3{
+    background-color: burlywood;
+}
+
+/* FELX */
+

@@ -1,0 +1,82 @@
+div{
+    height: 100px;;
+    width: 100px;
+    padding: 20px;
+    margin: 5px;
+}
+
+
+
+.box1{
+    background-color: palevioletred;
+    float: left;
+    clear: both;
+}
+
+.box2{
+    background-color: brown;
+    /* float: right; */
+    float: left;
+    clear: both;
+}
+
+.box3{
+    background-color: burlywood;
+    float: right;
+    clear: right;
+    
+}
+
+/* .box4{
+    background-color: burlywood;
+    /* float: right; */
+}
+
+.box5{
+    background-color: brown;
+    /* float: left; */
+    /* clear:left; */
+}
+
+.box6{
+    background-color: brown;
+    /* float: right; */
+} */
+
+/* .long{
+    display: flexbox;
+    background-color: black;
+} */
+
+/* .parent{
+    height: 1000px;
+    width: 1000px;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    justify-content: space-around;
+    display: flex;
+}
+
+.child1{
+    background-color: gray;
+}
+
+.child2{
+    background-color: green;
+}
+
+.child3{
+    background-color: greenyellow;
+}
+
+.child4{
+    background-color: goldenrod;
+}
+
+.child5{
+    background-color: wheat;
+}
+
+.child6{
+    background-color: olive;
+} */
